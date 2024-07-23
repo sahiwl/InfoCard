@@ -61,7 +61,6 @@ export const MultiInputForm = () => {
 
 
 function App() {
-  const [count, setCount] = useState(0)
   return (
     <Card/>
     // <MultiInputForm />
